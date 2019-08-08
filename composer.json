@@ -1,0 +1,7 @@
+{
+    "name": "pixelbobs/dtch",
+    "type": "project",
+    "require": {
+        "laravel/laravel": "^5.5"
+    }
+}
